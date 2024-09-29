@@ -1,4 +1,3 @@
----
 name: Leaf Agriculture
 description: >-
   We are Leaf Agriculture, provider of a unified farm data API. After
@@ -9,8 +8,8 @@ description: >-
 image: >-
   https://kinlane-productions2.s3.amazonaws.com/apis-json-icons/leaf-agriculture.png
 url: https://example.com/apis/leaf-agriculture.yml
-created: 2024-07-11
-modified: 2024-07-11
+created: 2024-07-11T00:00:00.000Z
+modified: 2024-07-11T00:00:00.000Z
 specificationVersion: '0.18'
 tags:
   - Agriculture
@@ -29,10 +28,11 @@ apis:
         url: https://withleaf.io
       - type: OpenAPI
         url: properties/agrio-openapi-original.yml
+    aid: leaf-agriculture:leaf-agriculture
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
 overlays:
   - type: APIs.io Search
     url: overlays/apis-io-search.yml
----
+aid: leaf-agriculture
