@@ -1,3 +1,4 @@
+---
 name: Agrio
 description: >-
   With our APIs, you can access data on weather patterns, pest and disease
@@ -30,3 +31,4 @@ overlays:
   - type: APIs.io Search
     url: overlays/apis-io-search.yml
 aid: agrio
+---
